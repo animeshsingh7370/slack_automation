@@ -1,12 +1,15 @@
+#More about slack at: https://slack.com/
+
+
 # Environment setup
 
 1.Setup venv environment for Python using Pycharm
 
 2.Setup Playwright to interact with browser:
 
-        **pip install --upgrade pip
+        pip install --upgrade pip
         pip install playwright
-        playwright install**
+        playwright install
 
 # Setup channel and bot in Slack
 Please follow this documentation : https://api.slack.com/messaging/sending
