@@ -2,7 +2,7 @@
 
 1.Setup venv environment for Python using Pycharm
 
-2.Setup Playwright for interact with browser:
+2.Setup Playwright to interact with browser:
 
         **pip install --upgrade pip
         pip install playwright
