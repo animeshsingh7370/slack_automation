@@ -1,4 +1,4 @@
-#More about slack at: https://slack.com/
+# More about slack at: https://slack.com/
 
 
 # Environment setup
